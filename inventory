@@ -11,3 +11,6 @@ centos   ansible_user=khlvn
 
 [file_servers]
 centos   ansible_user=khlvn
+
+[workstations]
+server1
