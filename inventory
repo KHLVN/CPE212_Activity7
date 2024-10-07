@@ -1,0 +1,13 @@
+[web_servers]
+server1
+server2
+centos   ansible_user=khlvn
+
+
+[db_servers]
+server3
+centos   ansible_user=khlvn
+
+
+[file_servers]
+centos   ansible_user=khlvn
